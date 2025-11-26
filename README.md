@@ -1,4 +1,4 @@
-# **DataFi — Decentralized Data Network for AI Training**
+# **DataFi: A Decentralized Data Network for AI Training**
 
 **DataFi** is a blockchain-based ecosystem designed to solve one of today’s biggest AI challenges: access to high-quality, transparent, and privacy-preserving training data. The project proposes a decentralized marketplace where datasets are verifiable, usage is traceable, and contributors are fairly rewarded through tokenized incentives.
 
